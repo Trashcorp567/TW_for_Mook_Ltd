@@ -1,0 +1,1508 @@
+[
+    {
+        "id": "818d33db-cfb4-48c0-84bd-e00615fbaade",
+        "name": "Полигон ТБО ООО \"Дизель\"",
+        "typeActivityId": 3,
+        "typeActivityName": "Размещение ТКО",
+        "objectTypeId": 9,
+        "objectTypeName": "Объект захоронения",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 1984,
+        "location": {
+            "coordinates": {
+                "latitude": 53.16687,
+                "longitude": 38.1165
+            },
+            "areaId": 2166,
+            "areaName": "Городской округ город Ефремов",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Тульская область, МО г. Ефремов"
+        },
+        "power": 25000.0
+    },
+    {
+        "id": "ee4526e5-427f-44e1-92e7-a2412aac51a3",
+        "name": "Полигон ТБО ООО \"Куркинское\"",
+        "typeActivityId": 3,
+        "typeActivityName": "Размещение ТКО",
+        "objectTypeId": 9,
+        "objectTypeName": "Объект захоронения",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2008,
+        "location": {
+            "coordinates": {
+                "latitude": 53.454187,
+                "longitude": 38.665479
+            },
+            "areaId": 2179,
+            "areaName": "Куркинский муниципальный район",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "в 700 м на СЗ от жилого дома п.Куркино, ул.Д.Донского, 1"
+        },
+        "power": 2500.0
+    },
+    {
+        "id": "a8a51d2e-98e8-4bbc-9ac4-ba037017e76d",
+        "name": "Полигон ТБО МУП \"Благоустройство Веневского района\" ",
+        "typeActivityId": 3,
+        "typeActivityName": "Размещение ТКО",
+        "objectTypeId": 9,
+        "objectTypeName": "Объект захоронения",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2007,
+        "location": {
+            "coordinates": {
+                "latitude": 54.372127,
+                "longitude": 38.231641
+            },
+            "areaId": 2172,
+            "areaName": "Веневский муниципальный район",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Веневский р-н, н.п.Коломенская слобода, примерно в 1 км от ориентира по направлению на запад"
+        },
+        "power": 13900.0
+    },
+    {
+        "id": "af2cd359-0af2-4fc5-b00d-032ce30fa03f",
+        "name": "Комплекс переработки отходов в г. Туле, 2 этап строительства",
+        "typeActivityId": 1,
+        "typeActivityName": "Обработка ТКО",
+        "objectTypeId": 12,
+        "objectTypeName": "Объект обработки",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2023,
+        "location": {
+            "coordinates": {
+                "latitude": 54.137056,
+                "longitude": 37.646146
+            },
+            "areaId": 2162,
+            "areaName": "Городской округ город Тула",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "город Тула / Тульская область, Ленинский район, сельское поселение Ильинское, 1650м севернее д.Зимаровка"
+        },
+        "power": 480000.0
+    },
+    {
+        "id": "d18aa063-54be-4c4c-967e-d9227e9602c6",
+        "name": "Комплекс переработки отходов в г. Туле, 2 этап строительства",
+        "typeActivityId": 2,
+        "typeActivityName": "Утилизация ТКО",
+        "objectTypeId": 16,
+        "objectTypeName": "Объект утилизации",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2023,
+        "location": {
+            "coordinates": {
+                "latitude": 54.137056,
+                "longitude": 37.646146
+            },
+            "areaId": 2162,
+            "areaName": "Городской округ город Тула",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "город Тула / Тульская область, Ленинский район, сельское поселение Ильинское, 1650м севернее д.Зимаровка"
+        },
+        "power": 208800.0
+    },
+    {
+        "id": "8add6d00-f883-4935-ba64-2c6d09ce98f6",
+        "name": "Полигон ТБО в МО города Тулы",
+        "typeActivityId": 3,
+        "typeActivityName": "Размещение ТКО",
+        "objectTypeId": 9,
+        "objectTypeName": "Объект захоронения",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2021,
+        "location": {
+            "coordinates": {
+                "latitude": 54.14283,
+                "longitude": 37.649001
+            },
+            "areaId": 2162,
+            "areaName": "Городской округ город Тула",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Тульская область, г. Тула,  деревня Малая Еловая, 8-ой км а/д \"Тула-Новомосковск\""
+        },
+        "power": 360000.0
+    },
+    {
+        "id": "939da0cb-8697-4d81-9484-611d8163915f",
+        "name": "Полигон ТБО ООО \"Экопром\" (бывш. АО \"САХ\")",
+        "typeActivityId": 3,
+        "typeActivityName": "Размещение ТКО",
+        "objectTypeId": 9,
+        "objectTypeName": "Объект захоронения",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 1973,
+        "location": {
+            "coordinates": {
+                "latitude": 54.142592,
+                "longitude": 37.655415
+            },
+            "areaId": 2162,
+            "areaName": "Городской округ город Тула",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "г.Тула, Новомосковское шоссе, 7 км, д.Малая Еловая, участок 23"
+        },
+        "power": 280700.0
+    },
+    {
+        "id": "c0d60356-ca69-4d28-aaea-e3257b2be29c",
+        "name": "Объект вспомогательного использования на территории Комплекса переработки отходов в г. Туле, 1 этап строительства",
+        "typeActivityId": 2,
+        "typeActivityName": "Утилизация ТКО",
+        "objectTypeId": 16,
+        "objectTypeName": "Объект утилизации",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2021,
+        "location": {
+            "coordinates": {
+                "latitude": 54.137056,
+                "longitude": 37.646146
+            },
+            "areaId": 2162,
+            "areaName": "Городской округ город Тула",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Тульская область, Ленинский район, сельское поселение Ильинское, 1650м севернее д.Зимаровка"
+        },
+        "power": 18000.0
+    },
+    {
+        "id": "8eb2cf72-706e-432a-8b1f-5e2b80cad544",
+        "name": "Объект вспомогательного использования на территории Комплекса переработки отходов в г. Туле, 1 этап строительства",
+        "typeActivityId": 1,
+        "typeActivityName": "Обработка ТКО",
+        "objectTypeId": 12,
+        "objectTypeName": "Объект обработки",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2021,
+        "location": {
+            "coordinates": {
+                "latitude": 54.137056,
+                "longitude": 37.646146
+            },
+            "areaId": 2162,
+            "areaName": "Городской округ город Тула",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Тульская область, Ленинский район, сельское поселение Ильинское, 1650м севернее д.Зимаровка"
+        },
+        "power": 100000.0
+    },
+    {
+        "id": "3c07feaf-1cab-4f72-9e4b-6164c20145dc",
+        "name": "Полигон ТКО в Дубенском районе Тульской области/ Участок компостирования органической фракции",
+        "typeActivityId": 2,
+        "typeActivityName": "Утилизация ТКО",
+        "objectTypeId": 16,
+        "objectTypeName": "Объект утилизации",
+        "objectStateId": 1,
+        "objectStateName": "Перспективный",
+        "yearInput": 2027,
+        "location": {
+            "coordinates": {
+                "latitude": 54.148677,
+                "longitude": 37.01872
+            },
+            "areaId": 2174,
+            "areaName": "Дубенский муниципальный район",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "в 1.5 км восточнее пос.Дубна"
+        },
+        "power": 70000.0
+    },
+    {
+        "id": "4207aeab-c138-48bd-a06c-3a89259a8526",
+        "name": "Полигон ТКО в Дубенском районе Тульской области",
+        "typeActivityId": 1,
+        "typeActivityName": "Обработка ТКО",
+        "objectTypeId": 12,
+        "objectTypeName": "Объект обработки",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2020,
+        "location": {
+            "coordinates": {
+                "latitude": 54.148677,
+                "longitude": 37.01872
+            },
+            "areaId": 2174,
+            "areaName": "Дубенский муниципальный район",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "в 1.5 км восточнее пос.Дубна"
+        },
+        "power": 440000.0
+    },
+    {
+        "id": "12cfbcc3-5c3a-49d1-a399-18702517a983",
+        "name": "Полигон ТКО в Дубенском районе Тульской области/ Полигон ТБО ООО \"СтройСитиТула\" ",
+        "typeActivityId": 3,
+        "typeActivityName": "Размещение ТКО",
+        "objectTypeId": 9,
+        "objectTypeName": "Объект захоронения",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2019,
+        "location": {
+            "coordinates": {
+                "latitude": 54.156279,
+                "longitude": 37.017369
+            },
+            "areaId": 2174,
+            "areaName": "Дубенский муниципальный район",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "в 1.5 км восточнее пос.Дубна"
+        },
+        "power": 421000.0
+    },
+    {
+        "id": "7290c49c-356e-473e-ac3f-1fbc91dcee41",
+        "name": "Полигон ТБО МБУ \"Районное благоустройство, ремонт дорог и тротуаров\" ",
+        "typeActivityId": 3,
+        "typeActivityName": "Размещение ТКО",
+        "objectTypeId": 9,
+        "objectTypeName": "Объект захоронения",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 1970,
+        "location": {
+            "coordinates": {
+                "latitude": 53.98901,
+                "longitude": 38.268777
+            },
+            "areaId": 2167,
+            "areaName": "Городской округ город Новомосковск",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "г.Новомосковск, в районе бывших карьеров Кирпичного завода"
+        },
+        "power": 280005.02
+    },
+    {
+        "id": "48a09111-1595-4d2c-862e-160c6684649d",
+        "name": "Индустриальный комплекс обработки, утилизации и размещения твердых коммунальных отходов, расположенный в Узловском районе Тульской области",
+        "typeActivityId": 3,
+        "typeActivityName": "Размещение ТКО",
+        "objectTypeId": 9,
+        "objectTypeName": "Объект захоронения",
+        "objectStateId": 1,
+        "objectStateName": "Перспективный",
+        "yearInput": 2024,
+        "location": {
+            "coordinates": {
+                "latitude": 53.974682,
+                "longitude": 38.121679
+            },
+            "areaId": 2184,
+            "areaName": "Узловский муниципальный район",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Узловский район, северо-восточнее от дома № 16 д. Большая Россошка"
+        },
+        "power": 254983.0
+    },
+    {
+        "id": "2af25777-19de-44eb-a851-d80573518174",
+        "name": "Индустриальный комплекс обработки, утилизации и размещения твердых коммунальных отходов, расположенный в Узловском районе Тульской области",
+        "typeActivityId": 1,
+        "typeActivityName": "Обработка ТКО",
+        "objectTypeId": 12,
+        "objectTypeName": "Объект обработки",
+        "objectStateId": 1,
+        "objectStateName": "Перспективный",
+        "yearInput": 2024,
+        "location": {
+            "coordinates": {
+                "latitude": 53.974682,
+                "longitude": 38.121679
+            },
+            "areaId": 2184,
+            "areaName": "Узловский муниципальный район",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Узловский район, северо-восточнее от дома № 16 д. Большая Россошка"
+        },
+        "power": 300000.0
+    },
+    {
+        "id": "0f37b937-492f-4a18-ac1f-6c09b6828164",
+        "name": "Индустриальный комплекс обработки, утилизации и размещения твердых коммунальных отходов, расположенный в Узловском районе Тульской области",
+        "typeActivityId": 2,
+        "typeActivityName": "Утилизация ТКО",
+        "objectTypeId": 16,
+        "objectTypeName": "Объект утилизации",
+        "objectStateId": 1,
+        "objectStateName": "Перспективный",
+        "yearInput": 2024,
+        "location": {
+            "coordinates": {
+                "latitude": 53.974682,
+                "longitude": 38.121679
+            },
+            "areaId": 2184,
+            "areaName": "Узловский муниципальный район",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Узловский район, северо-восточнее от дома № 16 д. Большая Россошка"
+        },
+        "power": 2880.0
+    },
+    {
+        "id": "4545d737-8c83-4ea4-a5d3-20bee0b00f7e",
+        "name": "Полигон ТБО ООО \"Энергокор-Агро\" ",
+        "typeActivityId": 3,
+        "typeActivityName": "Размещение ТКО",
+        "objectTypeId": 9,
+        "objectTypeName": "Объект захоронения",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 1977,
+        "location": {
+            "coordinates": {
+                "latitude": 54.28,
+                "longitude": 37.478017
+            },
+            "areaId": 2162,
+            "areaName": "Городской округ город Тула",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Ленинский район, р.п.Ленинский, 270 м по направлению на запад от кладбища"
+        },
+        "power": 34020.0
+    },
+    {
+        "id": "e7d78b8a-5933-491c-80cd-4315d67b1817",
+        "name": "Мусоросортировочная станция ООО \"Энергокор-Агро\" (Ленинский район)",
+        "typeActivityId": 1,
+        "typeActivityName": "Обработка ТКО",
+        "objectTypeId": 12,
+        "objectTypeName": "Объект обработки",
+        "objectStateId": 2,
+        "objectStateName": "Действующий",
+        "yearInput": 2020,
+        "location": {
+            "coordinates": {
+                "latitude": 54.28,
+                "longitude": 37.478017
+            },
+            "areaId": 2162,
+            "areaName": "Городской округ город Тула",
+            "regionId": 71,
+            "regionName": "Тульская область",
+            "address": "Ленинский район, р.п.Ленинский, 270 м по направлению на запад от кладбища"
+        },
+        "power": 50000.0
+    },
+    {
+        "id": "7ecc2ddd-5fdd-40aa-bb92-76cbb6c69b5f",
+        "cityName": "Яблоневское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Каменский муниципальный район",
+        "coordinates": {
+            "latitude": 53.2264742,
+            "longitude": 37.9091658
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "b6971501-a67d-4df8-b718-b870c2001d08",
+        "cityName": "Городское поселение рабочий поселок Дубна",
+        "regionName": "Тульская область",
+        "areaName": "Дубенский муниципальный район",
+        "coordinates": {
+            "latitude": 54.1555739,
+            "longitude": 36.9604388
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "71983049-1af0-4c5d-8a75-0035888e70eb",
+        "cityName": "Городское поселение рабочий поселок Арсеньево",
+        "regionName": "Тульская область",
+        "areaName": "Арсеньевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.7366157,
+            "longitude": 36.6641994
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "b22e4ef7-5112-42cc-947c-157d0525dc63",
+        "cityName": "Городской округ Славный",
+        "regionName": "Тульская область",
+        "areaName": "Городской округ Славный",
+        "coordinates": {
+            "latitude": 53.5452646,
+            "longitude": 36.4754679
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "4c9cba09-bdc1-45ac-9b92-0ceccfc936cf",
+        "cityName": "Новольвовское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Кимовский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9229957,
+            "longitude": 38.78707
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "b38b0be3-6606-4a55-a330-8a6a16b7b8b6",
+        "cityName": "Бахметьевское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Богородицкий муниципальный район",
+        "coordinates": {
+            "latitude": 53.6683999,
+            "longitude": 38.4240226
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "b38647ce-d770-4cd3-ab73-efb4cde53646",
+        "cityName": "Епифанское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Кимовский муниципальный район",
+        "coordinates": {
+            "latitude": 53.8267188,
+            "longitude": 38.5526895
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "918c0f90-c4e2-4a79-9477-0ac3e6e68f40",
+        "cityName": "Михайловское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Куркинский муниципальный район",
+        "coordinates": {
+            "latitude": 53.070571,
+            "longitude": 38.224061
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "e7346e40-aa8f-448c-9b84-b28b02347262",
+        "cityName": "Городской округ город Ефремов",
+        "regionName": "Тульская область",
+        "areaName": "Городской округ город Ефремов",
+        "coordinates": {
+            "latitude": 53.1464766,
+            "longitude": 38.0921657
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "5d7dceb3-8951-4ada-a998-1313d3733004",
+        "cityName": "Турдейское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Воловский муниципальный район",
+        "coordinates": {
+            "latitude": 53.363456,
+            "longitude": 37.999168
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "6432151a-705d-4702-a1ee-80c1c73bc849",
+        "cityName": "Мордвесское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Веневский муниципальный район",
+        "coordinates": {
+            "latitude": 54.5727818,
+            "longitude": 38.214091
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "185884d7-daf2-44fe-8d39-0b03fd2d9e87",
+        "cityName": "Ревякинское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Ясногорский муниципальный район",
+        "coordinates": {
+            "latitude": 54.366728,
+            "longitude": 37.65638
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "d511e6f7-a42f-4851-9925-cd04ed422814",
+        "cityName": "Городское поселение город Ясногорск",
+        "regionName": "Тульская область",
+        "areaName": "Ясногорский муниципальный район",
+        "coordinates": {
+            "latitude": 54.4795484,
+            "longitude": 37.6896048
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "42bbe603-5b3e-41d0-910f-53544b5d9017",
+        "cityName": "Тургеневское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Чернский муниципальный район",
+        "coordinates": {
+            "latitude": 53.377538,
+            "longitude": 37.29496
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "ccd73216-51cf-46bf-81bd-2a1e06a2caf0",
+        "cityName": "Городской округ город Тула",
+        "regionName": "Тульская область",
+        "areaName": "Городской округ город Тула",
+        "coordinates": {
+            "latitude": 54.1920559,
+            "longitude": 37.6153842
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "8a6d24af-8cdb-4ede-a638-230c599c1813",
+        "cityName": "Городской округ рабочий поселок Новогуровский",
+        "regionName": "Тульская область",
+        "areaName": "Городской округ рабочий поселок Новогуровский",
+        "coordinates": {
+            "latitude": 54.467546,
+            "longitude": 37.3386322
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "7fb0ed43-1dac-4819-8814-a3163bd5daf5",
+        "cityName": "Северное сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Чернский муниципальный район",
+        "coordinates": {
+            "latitude": 53.5323594,
+            "longitude": 37.0849584
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "3a945d50-a27e-41c4-8d87-7890e47d56fc",
+        "cityName": "Молочно-Дворское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Плавский муниципальный район",
+        "coordinates": {
+            "latitude": 53.6525794,
+            "longitude": 37.235252
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "8601e85d-e50f-49cf-9eae-7563d8290815",
+        "cityName": "Протасовское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Дубенский муниципальный район",
+        "coordinates": {
+            "latitude": 54.1778755,
+            "longitude": 36.9895119
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "305eb0f5-52c0-410d-89c1-f126da672cb7",
+        "cityName": "Городской округ город Алексин",
+        "regionName": "Тульская область",
+        "areaName": "Городской округ город Алексин",
+        "coordinates": {
+            "latitude": 54.5083349,
+            "longitude": 37.0478067
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "0f5c1ea1-2e03-4cb6-afce-7ec04a1a6380",
+        "cityName": "Северо-Одоевское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Одоевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9805778,
+            "longitude": 36.7026659
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "c910f658-1044-4d33-b6cb-4d315660847c",
+        "cityName": "Юго-Восточное сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Суворовский муниципальный район",
+        "coordinates": {
+            "latitude": 54.195203,
+            "longitude": 36.62541
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "29b283a8-5768-4214-9ca8-477ee41ecbf9",
+        "cityName": "Пригородное сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Плавский муниципальный район",
+        "coordinates": {
+            "latitude": 53.7701014,
+            "longitude": 38.1225152
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "2be514bb-bf36-4d78-b4b7-736fc0da58ff",
+        "cityName": "Городское поселение город Богородицк",
+        "regionName": "Тульская область",
+        "areaName": "Богородицкий муниципальный район",
+        "coordinates": {
+            "latitude": 53.7701014,
+            "longitude": 38.1225152
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "60ba2bd2-73d5-4823-840e-ffa034bc30e2",
+        "cityName": "Иевлевское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Богородицкий муниципальный район",
+        "coordinates": {
+            "latitude": 53.7598411,
+            "longitude": 37.9878867
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "97f3f445-2374-4f36-b460-d0458b2b743e",
+        "cityName": "Шахтерское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Узловский муниципальный район",
+        "coordinates": {
+            "latitude": 53.921048,
+            "longitude": 38.100534
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "f288abc3-a2ca-4799-8071-00302a27d227",
+        "cityName": "Бегичевское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Богородицкий муниципальный район",
+        "coordinates": {
+            "latitude": 53.7975486,
+            "longitude": 38.2565128
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "f5b900f3-5a7f-41c2-a82b-99ca35f781dd",
+        "cityName": "Смородинское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Узловский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9312276,
+            "longitude": 38.3179303
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "3b16c0cc-117d-46d4-b05b-73e16b2b8a51",
+        "cityName": "Городское поселение город Киреевск",
+        "regionName": "Тульская область",
+        "areaName": "Киреевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9319555,
+            "longitude": 37.9220351
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "4ebca1bd-2a5f-4a26-944e-4625170de8e1",
+        "cityName": "Богучаровское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Киреевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.8841492,
+            "longitude": 37.8593627
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "a981dda7-7a2a-4a0c-b51b-535df17fa025",
+        "cityName": "Городское поселение город Липки",
+        "regionName": "Тульская область",
+        "areaName": "Киреевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9417551,
+            "longitude": 37.7020148
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "dd2f189d-ddfc-444e-a2c2-b8287958ac50",
+        "cityName": "Городское поселение город Советск",
+        "regionName": "Тульская область",
+        "areaName": "Щекинский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9338874,
+            "longitude": 37.6316141
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "0092bd0e-9fe1-4e6e-a868-8184b8f7b106",
+        "cityName": "Яснополянское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Щекинский муниципальный район",
+        "coordinates": {
+            "latitude": 54.038955,
+            "longitude": 37.4175111
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "18dcd740-28ad-443c-827c-d972740253b8",
+        "cityName": "Малаховское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Заокский муниципальный район",
+        "coordinates": {
+            "latitude": 54.024065,
+            "longitude": 37.429034
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "ac008591-2bff-4d0c-a9cc-a8749078d25d",
+        "cityName": "Городское поселение рабочий поселок Первомайский",
+        "regionName": "Тульская область",
+        "areaName": "Щекинский муниципальный район",
+        "coordinates": {
+            "latitude": 54.036399,
+            "longitude": 37.5039196
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "e0c48b75-c435-4859-a49a-6213c3db345a",
+        "cityName": "Городское поселение город Щекино",
+        "regionName": "Тульская область",
+        "areaName": "Щекинский муниципальный район",
+        "coordinates": {
+            "latitude": 54.0020652,
+            "longitude": 37.5176288
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "2f229921-e890-4dfa-9642-c847264b9d7f",
+        "cityName": "Городское поселение рабочий поселок Теплое",
+        "regionName": "Тульская область",
+        "areaName": "Тепло-Огаревский муниципальный район",
+        "coordinates": {
+            "latitude": 53.6158744,
+            "longitude": 37.5919603
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "bec58b8d-6b3c-4f42-913f-48d11b010bea",
+        "cityName": "Камынинское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Плавский муниципальный район",
+        "coordinates": {
+            "latitude": 53.6721091,
+            "longitude": 37.3184913
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "cebd5583-c1ea-4294-babb-73ec4fd2c411",
+        "cityName": "Городское поселение город Плавск",
+        "regionName": "Тульская область",
+        "areaName": "Плавский муниципальный район",
+        "coordinates": {
+            "latitude": 53.7096415,
+            "longitude": 37.2862352
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "22fc7f64-efb1-4930-95bc-eb71f915fc49",
+        "cityName": "Самарское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Куркинский муниципальный район",
+        "coordinates": {
+            "latitude": 53.3972499,
+            "longitude": 38.5475697
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "a9def3a6-6f41-4c83-b100-a23299d5fb08",
+        "cityName": "Городское поселение рабочий поселок Куркино",
+        "regionName": "Тульская область",
+        "areaName": "Куркинский муниципальный район",
+        "coordinates": {
+            "latitude": 53.429379,
+            "longitude": 38.6622818
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "19cce428-b2cd-48f5-9dab-fc382c208fdb",
+        "cityName": "Центральное сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Веневский муниципальный район",
+        "coordinates": {
+            "latitude": 54.3542315,
+            "longitude": 38.2642236
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "fabfa132-1af8-434b-a05a-2610fe24229e",
+        "cityName": "Городское поселение город Венев",
+        "regionName": "Тульская область",
+        "areaName": "Веневский муниципальный район",
+        "coordinates": {
+            "latitude": 54.3542315,
+            "longitude": 38.2642236
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "9f5dc84c-9fdd-41b9-b543-8d1f0ffe5b54",
+        "cityName": "Городское поселение рабочий поселок Заокский",
+        "regionName": "Тульская область",
+        "areaName": "Заокский муниципальный район",
+        "coordinates": {
+            "latitude": 54.7327928,
+            "longitude": 37.3976912
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "a0b7e9e8-4420-46a7-9896-58ab234464ec",
+        "cityName": "Демидовское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Заокский муниципальный район",
+        "coordinates": {
+            "latitude": 54.5783607,
+            "longitude": 37.4605094
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "ded72f3b-5e94-4bb2-9534-162d97cd6edc",
+        "cityName": "Крапивенское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Щекинский муниципальный район",
+        "coordinates": {
+            "latitude": 53.941302,
+            "longitude": 37.1556371
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "e17a8169-6acb-48fe-bf38-5b265946f22c",
+        "cityName": "Архангельское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Каменский муниципальный район",
+        "coordinates": {
+            "latitude": 53.85184,
+            "longitude": 37.082985
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "a9594141-9b88-4108-b0dd-393b01b65388",
+        "cityName": "Левобережное сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Белевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.8324999,
+            "longitude": 36.1707527
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "ee394c8c-779e-4606-a6bf-20682734d2fa",
+        "cityName": "Городское поселение город Белев",
+        "regionName": "Тульская область",
+        "areaName": "Белевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.8114179,
+            "longitude": 36.1382247
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "1842ebdf-4513-4a29-9958-d3506b110a3e",
+        "cityName": "Каменецкое сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Узловский муниципальный район",
+        "coordinates": {
+            "latitude": 54.0121694,
+            "longitude": 38.2213802
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "471bbab6-b324-4ced-95ce-da23da5898b5",
+        "cityName": "Шварцевское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Киреевский муниципальный район",
+        "coordinates": {
+            "latitude": 54.0878559,
+            "longitude": 37.9960624
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "823178d1-1dca-4aed-afbc-9e52b38f4d94",
+        "cityName": "Городской округ город Новомосковск",
+        "regionName": "Тульская область",
+        "areaName": "Городской округ город Новомосковск",
+        "coordinates": {
+            "latitude": 54.0109075,
+            "longitude": 38.2914024
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "c7a379b6-f281-4615-9b6d-a883072b6037",
+        "cityName": "Грицовское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Веневский муниципальный район",
+        "coordinates": {
+            "latitude": 54.1375734,
+            "longitude": 38.1619495
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "d068bf9a-8478-4122-9cfe-b49bbdc07cf7",
+        "cityName": "Городское поселение город Узловая",
+        "regionName": "Тульская область",
+        "areaName": "Узловский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9730452,
+            "longitude": 38.1763201
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "1c6a0ab6-3bc0-49c2-a027-c9231d79adf0",
+        "cityName": "Городское поселение город Болохово",
+        "regionName": "Тульская область",
+        "areaName": "Киреевский муниципальный район",
+        "coordinates": {
+            "latitude": 54.0820349,
+            "longitude": 37.826724
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "9ab115ce-984b-4fa6-b67d-f1c84d61f2d3",
+        "cityName": "Бородинское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Киреевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9956289,
+            "longitude": 37.8177581
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "c803da5c-b92a-4b89-bf06-3d55b0cb6967",
+        "cityName": "Ломинцевское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Щекинский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9846369,
+            "longitude": 37.6656816
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "f34110f8-c7cf-42e8-b412-ce523eed8e8c",
+        "cityName": "Дедиловское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Киреевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9795818,
+            "longitude": 37.9267321
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "02d8e5fb-dbb9-42ca-8e91-a649e5faa49f",
+        "cityName": "Огаревское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Щекинский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9219385,
+            "longitude": 37.5738976
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "1894d0b9-0c71-4498-a7e7-1193d5ee815c",
+        "cityName": "Двориковское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Воловский муниципальный район",
+        "coordinates": {
+            "latitude": 53.783156,
+            "longitude": 37.352929
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "6cf7055c-822f-43c0-a6dc-fa16feb535b6",
+        "cityName": "Лазаревское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Щекинский муниципальный район",
+        "coordinates": {
+            "latitude": 53.8540931,
+            "longitude": 37.4883218
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "aebdd531-5259-45a2-abd3-f82d7b67619b",
+        "cityName": "Манаенское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Арсеньевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.854406,
+            "longitude": 37.508777
+        },
+        "zoneName": "Зона №1",
+        "regionalOperatorName": "ООО \"ХАРТИЯ\"",
+        "inn": "7703770101"
+    },
+    {
+        "id": "403842e0-eea8-43ea-b757-ea5801e54ac0",
+        "cityName": "Городское поселение рабочий поселок Одоев",
+        "regionName": "Тульская область",
+        "areaName": "Одоевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9387095,
+            "longitude": 36.6877035
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "49be1df0-18dc-4f95-bc43-64608dbbf178",
+        "cityName": "Восточно-Одоевское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Одоевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.850942,
+            "longitude": 36.8351077
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "7bf17002-1b04-471e-b00b-e40806d55f16",
+        "cityName": "Южно-Одоевское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Одоевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.7864629,
+            "longitude": 36.6424965
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "ec2a359b-24c1-4c08-ba7c-cef18ad1bddf",
+        "cityName": "Астаповское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Арсеньевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.7492262,
+            "longitude": 36.6793845
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "0ea0d005-66b0-4579-adc0-daf9f54a2fd0",
+        "cityName": "Городское поселение город Кимовск",
+        "regionName": "Тульская область",
+        "areaName": "Кимовский муниципальный район",
+        "coordinates": {
+            "latitude": 53.9698378,
+            "longitude": 38.5380808
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "2644672d-e2a7-4542-b995-6c17cf77406d",
+        "cityName": "Городской округ город Донской",
+        "regionName": "Тульская область",
+        "areaName": "Городской округ город Донской",
+        "coordinates": {
+            "latitude": 53.9678944,
+            "longitude": 38.3371824
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "3edb4b4b-4493-4b49-8e52-007dcdda2782",
+        "cityName": "Иваньковское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Ясногорский муниципальный район",
+        "coordinates": {
+            "latitude": 54.022251,
+            "longitude": 38.459177
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "3e541393-e31b-4d13-a055-9f7cf70c83a4",
+        "cityName": "Городское поселение город Чекалин",
+        "regionName": "Тульская область",
+        "areaName": "Суворовский муниципальный район",
+        "coordinates": {
+            "latitude": 54.0984438,
+            "longitude": 36.2474142
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "877aa942-d7ef-4c08-acdb-a9f438d85fff",
+        "cityName": "Северо-Западное сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Суворовский муниципальный район",
+        "coordinates": {
+            "latitude": 54.10143,
+            "longitude": 36.346034
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "e57d3158-2e0a-4219-9f57-3ec035b7a181",
+        "cityName": "Городское поселение город Суворов",
+        "regionName": "Тульская область",
+        "areaName": "Суворовский муниципальный район",
+        "coordinates": {
+            "latitude": 54.1343585,
+            "longitude": 36.4807419
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "5e423620-7733-4cca-b889-c10fa5acaf36",
+        "cityName": "Товарковское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Богородицкий муниципальный район",
+        "coordinates": {
+            "latitude": 53.6807224,
+            "longitude": 38.2056837
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "e824c13b-10d9-4586-a230-5d0707371fcb",
+        "cityName": "Городское поселение рабочий поселок Волово",
+        "regionName": "Тульская область",
+        "areaName": "Воловский муниципальный район",
+        "coordinates": {
+            "latitude": 53.5510499,
+            "longitude": 38.0284143
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "48999049-e805-473f-a6e3-5c7729fe50bd",
+        "cityName": "Воскресенское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Дубенский муниципальный район",
+        "coordinates": {
+            "latitude": 54.470305,
+            "longitude": 38.220099
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "8112cddc-f8ef-4698-b780-5b500a74408d",
+        "cityName": "Красноярское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Киреевский муниципальный район",
+        "coordinates": {
+            "latitude": 54.486344,
+            "longitude": 38.11903
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "55d04acc-4d95-4d76-bc3a-a9e570604183",
+        "cityName": "Нарышкинское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Тепло-Огаревский муниципальный район",
+        "coordinates": {
+            "latitude": 53.6978841,
+            "longitude": 37.6454812
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "efc2a71b-61fe-463f-b69d-174e591f9a70",
+        "cityName": "Волчье-Дубравское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Тепло-Огаревский муниципальный район",
+        "coordinates": {
+            "latitude": 53.5426214,
+            "longitude": 37.6448459
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "a80e54c0-7974-4613-86c8-4f9aef413a44",
+        "cityName": "Теляковское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Ясногорский муниципальный район",
+        "coordinates": {
+            "latitude": 54.759353,
+            "longitude": 37.80205
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "c0679116-d90b-42ff-998a-67d8cc64b492",
+        "cityName": "Страховское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Заокский муниципальный район",
+        "coordinates": {
+            "latitude": 54.676324,
+            "longitude": 37.761132
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "3129ad93-580f-4433-9bb8-4d89158d7901",
+        "cityName": "Липицкое сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Чернский муниципальный район",
+        "coordinates": {
+            "latitude": 53.4830304,
+            "longitude": 36.7756316
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "e8f64ce6-9e4d-4017-a283-9547b21ded85",
+        "cityName": "Городское поселение рабочий поселок Чернь",
+        "regionName": "Тульская область",
+        "areaName": "Чернский муниципальный район",
+        "coordinates": {
+            "latitude": 53.4512475,
+            "longitude": 36.9079333
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "4a1210b3-e6bd-4ab6-8df5-6223ca046cfc",
+        "cityName": "Приупское сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Киреевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.954902,
+            "longitude": 36.489306
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    },
+    {
+        "id": "f9c1335b-3235-4756-a609-ed9617de3b70",
+        "cityName": "Правобережное сельское поселение",
+        "regionName": "Тульская область",
+        "areaName": "Белевский муниципальный район",
+        "coordinates": {
+            "latitude": 53.8019201,
+            "longitude": 36.3085104
+        },
+        "zoneName": "Тульская область - Зона №2",
+        "regionalOperatorName": "ООО \"МСК-НТ\"",
+        "inn": "7734699480"
+    }
+]
